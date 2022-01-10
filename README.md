@@ -21,7 +21,9 @@ Jefferson, Denver, and Arapahoe to determine which one had the largest county tu
 	Raymon Anthony Doane received 11,606 votes which is 3.1% of votes the candidates received.
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 	The candidate who won the election was Diana DeGette with 272,892 votes which makes 73.8% of the total votes.
+	
 Imaged provided below to show the election results:
+
 ![election_results](https://user-images.githubusercontent.com/92958939/148710110-294e59ad-2b6b-4050-b02d-7070de256ec4.png)
 
 ## 3. Election-Audit Summary:
@@ -29,7 +31,8 @@ This script can be used to determine who the winner of the election is, how many
 It will also show how many voted their opponents received with their percentages.
 We also provided the county with the most votes and how many votes the other counties received for comparison.
 
-With this script we can also determine future elections not only for Colorado, but for other states, or even presidential elections.
-	If we needed to look for different states, once we are given the correct information, we can just change "counties" to "states" to determine the which states get the highest number or voters.
-We can also determine what counties have the smallest numbers of voters to figure out a way to boost those numbers.
-	If we need to search for the lowest counties with the lowest voters numbers, we would need to change "largest" to "lowest" under lines 31-33 for the data to provide those counties that need a boost in voters.
+Here are two examples on how this script can be modified to be used for other elections-
+1. With this script we can also determine future elections not only for Colorado, but for other states, or even presidential elections.
+	- If we needed to look for different states, once we are given the correct information, we can just change "counties" to "states" to determine the which states get the highest number or voters.
+2. We can also determine what counties have the smallest numbers of voters to figure out a way to boost those numbers.
+	- If we need to search for the lowest counties with the lowest voters numbers, we would need to change "largest" to "lowest" under lines 31-33 for the data to provide those counties that need a boost in voters.
