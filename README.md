@@ -22,7 +22,7 @@ Jefferson, Denver, and Arapahoe to determine which one had the largest county tu
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 	The candidate who won the election was Diana DeGette with 272,892 votes which makes 73.8% of the total votes.
 	
-Imaged provided below to show the election results:
+Image provided below to show the election results:
 
 ![election_results](https://user-images.githubusercontent.com/92958939/148710110-294e59ad-2b6b-4050-b02d-7070de256ec4.png)
 
